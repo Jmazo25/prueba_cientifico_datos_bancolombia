@@ -20,11 +20,13 @@
    ┗ 📗 resultado_ruaf.xlsx
 ```
 
-* En la carpeta Diplomacy_NLP se alojan el notebook de EDA
-  preprocesamineto, entrenamiento, del ejercicio de diplomacy Game,
-  además, de una carpeta que contienen los datasets utlizados y el peso de los dos mejores modelos
+* En la carpeta Diplomacy_NLP se alojan el notebook de EDA,
+  preprocesamineto y entrenamiento, del ejercicio de diplomacy Game,
+  además, de dos carpetas que contienen los datasets utlizados y el
+  peso de los dos mejores modelos respectivamente.
   
 * En la carpeta OCR se aloja el Notebook con la solución y los documentos .json
-  y PDF
+  y PDF, en el notebook se encuentra la solución de ambos documentos
 
-* En la carpeta Parser se aloja el tercer ejercicio con las mismas casuísticas
+* En la carpeta Parser se aloja el notebook con el tercer ejercicio y un archivo
+  xlsx con elresultado solicitado.
